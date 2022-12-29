@@ -13,6 +13,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ##  Screenshots
 - [SCREENSHOTS]
+![QR Desktop](https://user-images.githubusercontent.com/98083831/209892054-f4eca9db-d279-420c-a8ab-98bdf0efdf9b.png) DESKTOP VIEW
+![QR Mobile Screenshot](https://user-images.githubusercontent.com/98083831/209892066-66fdbb47-f542-4d64-98ba-be9f19d1d72d.png) MOBILE VIEW
+![QR Mobile](https://user-images.githubusercontent.com/98083831/209892073-2c0f06e5-5813-47b7-b20e-d79addf5df00.png) DEV-TOOLS MOBILE VIEW
 
 
 ## Links
