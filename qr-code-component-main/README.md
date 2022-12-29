@@ -13,17 +13,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ##  Screenshots
 - [SCREENSHOTS]
-    C:\Users\AMARACHUKWU\Documents\PROJECT_CHALLENGES\qr-code-component-main\QR-CODE\QR-Desktop.png
-        (DESKTOP VIEW)
-    
-    C:\Users\AMARACHUKWU\Documents\PROJECT_CHALLENGES\qr-code-component-main\QR-CODE\QR-Mobile.png
-        (MOBILE VIEW)
 
 
 ## Links
 - [LINKS]
-    - Solution URL: [Add solution URL here](https://your-solution-url.com)
-    - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+    - Solution URL: [QR-CODE TEMPLATE](https://www.frontendmentor.io/solutions/qr-code-component-Orz5upPh2i)
+    - Live Site URL: [QR-CODE-TEMPLATE](qr-code-html-css.vercel.app)
 
 
 ## My Process
@@ -60,6 +55,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Author
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [QR-CODE](https://qr-code-project-eddie7145.vercel.app/)
+- Frontend Mentor - [@Blac_koder](https://www.frontendmentor.io/profile/Blac_koder)
+- Twitter - [@blac_koder](https://www.twitter.com/blac_koder)
