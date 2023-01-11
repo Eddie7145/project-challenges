@@ -35,10 +35,19 @@ With the template designs found in the `designs` folder.
 
 
 ## Screenshots
-
-
+![Desktop-Landing-page](https://user-images.githubusercontent.com/98083831/211720281-e061880e-c331-4752-8d13-7c4f58ea94b1.png)
+                                                      # DESKTOP VIEW
+                                                      
+![Mobile-Head-Section](https://user-images.githubusercontent.com/98083831/211720303-16755802-415d-445c-a5a5-0b1041eaf22b.png)
+                                                      # MOBILE VIEW
+                                                      
+![Mobile-Menu-Section](https://user-images.githubusercontent.com/98083831/211720327-83064f45-e887-4cee-99e9-d4e5f4e51367.png)
+                                                      # MOBILE: MENU VIEW
+                                                      
 ## Links
-
+- To find the solution to thus project on frontend.io click on this link 
+- To view this project click this link https://news-paper-homepage-using-css-grid-ares.vercel.app/
+- To view the complete video on thus video click this link https://www.twitter.com/blac_koder 
 
 ## My Process
 
