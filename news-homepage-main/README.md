@@ -45,7 +45,7 @@ With the template designs found in the `designs` folder.
                                                       # MOBILE: MENU VIEW
                                                       
 ## Links
-- To find the solution to thus project on frontend.io click on this link 
+- To find the solution to thus project on frontend.io click on this link https://www.frontendmentor.io/solutions/news-homepage-Hvix8-13_h
 - To view this project click this link https://news-paper-homepage-using-css-grid-ares.vercel.app/
 - To view the complete video on thus video click this link https://www.twitter.com/blac_koder 
 
