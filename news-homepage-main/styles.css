@@ -90,6 +90,7 @@ nav ul li a{
     display: block;
     align-items: center;
     justify-content: flex-start;
+    position: relative;
 }
 .header-img{
     max-width: 100%;
@@ -149,8 +150,8 @@ nav ul li a{
     font-size: 15px;
     letter-spacing: 2px;
     font-weight: 500;
-    position: relative;
-    bottom: -37%;
+    position: absolute;
+    bottom: 0;
     margin: 0 1.5rem;
     transition: 0.3s ease-in;
 }
@@ -159,6 +160,7 @@ nav ul li a{
                                                     /*TOPIC SECTION  */
 .bx-topics{
     padding: 0;
+    position: relative;
 }
 
 .topic-container{
@@ -312,15 +314,14 @@ nav ul li a:hover{
 
                                                     /* MAKING IT RESPONSIVE */
 
-@media only screen and (max-width: 375px) {
+@media screen and (max-width: 375px) {
 
     nav ul{
         display: flex;
         flex-direction: column;
         align-items: flex-start;
-        flex-wrap: wrap;
         gap: 1.5rem;
-        margin: 40rem 0;
+        margin: 7rem 0;
     }
 
     nav ul li{
@@ -333,7 +334,6 @@ nav ul li a:hover{
         font-weight: 500;
     }
     .open-menu-sect{
-        margin-left: 223px;
         z-index: 200;
     }
 
@@ -346,19 +346,21 @@ nav ul li a:hover{
 
     .nav-wrapper{
         width: 70%;
-        /* border: 2px solid red; */
+        height: 100vh;
         position: fixed;
+        top: 0;
         right: 0;
         background-color: hsl(36, 100%, 99%);
         z-index: 200;
         padding: 20px;
-        height: 145vh;
         transition: 0.5s ease-out;
     }
 
     .dim{
         width: 30%;
         left: 0;
+        padding: 0;
+        margin: 0;
         background-color: rgba(0,  0, 0, 0.5);
     }
 
@@ -386,7 +388,7 @@ nav ul li a:hover{
 
     body{
         width: 90%;
-        height: 260vh;
+        height: 265vh;
         font-family: 'Inter';
         background: hsl(36, 100%, 99%);
     }
@@ -403,10 +405,13 @@ nav ul li a:hover{
         "b2 b2 b2 b2  b2 b2 b2 b2  b2 b2 b2 b2"
         "b3 b3 b3 b3  b3 b3 b3 b3  b3 b3 b3 b3";
     }
+
+    .bx-header{
+        position: relative;
+    }
     
     .header{
         margin-top: 30px;
-        /* border: 1px solid black; */
         
     
         display: grid;
@@ -441,18 +446,19 @@ nav ul li a:hover{
     }
 
     .muted-text h4{
-        margin: 15px 0 0 0;
+        margin: 15px 0 60px 0;
         padding: 0;
         font-size: 0.95rem;
     }
 
     .muted-text a{
         margin: 0;
-        bottom: -25%;
+        bottom: 0;
+        position: absolute;
     }
 
     .bx-topics{
-        margin: 100px 0 0 0;
+        margin: 50px 0 0 0;
         height: 70vh;
     }
 
